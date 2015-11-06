@@ -62,10 +62,10 @@
     {
         "name": "Cleveland Browns",
         "colors" : {
-            "hex"   :   ["FB4F14",          "22150C",          "A5ACAF"],
-            "rgb"   :   ["211 47 30",       "34 21 12",        "155 161 162"],
-            "cmyk"  :   ["0 75 100 0",      "1 33 85 94",      "5 0 0 30"],
-            "pms"   :   ["1655 C",          "NFL Cleveland Browns","429 C"]
+            "hex"   :   ["FF3C00",          "311D00",          "FFFFFF"],
+            "rgb"   :   ["255 60 0",       "49 29 0",        "255 255 255"],
+            "cmyk"  :   ["2 93 100 0",      "1 33 85 94",      "0 0 0 0"],
+            "pms"   :   ["2028 C",          "NFL Cleveland Browns","no ink"]
         },
         "src" : "http://www.nflmedia.com/afc_north.zip"
     },
